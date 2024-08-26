@@ -328,6 +328,11 @@ footer .social-media .fa-lg {
 @media only screen and (
  max-width:768px
 ) {
+
+  .navbar-nav {
+   text-align: center;
+  }
+
   .video-container{
     width: 90%;
     margin: 0 auto;
